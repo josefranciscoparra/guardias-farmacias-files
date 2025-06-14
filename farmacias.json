@@ -11,12 +11,12 @@
         "address": "Avda. Andalucía, 85, Coria del Río, Sevilla",
         "phone": "954 770 068",
         "schedule": {
-          "monday": "9:00-21:30",
-          "tuesday": "9:00-21:30",
-          "wednesday": "9:00-21:30",
-          "thursday": "9:00-21:30",
-          "friday": "9:00-21:30",
-          "saturday": "9:30-21:00",
+          "monday": "9:00-14:30,17:00-21:00",
+          "tuesday": "9:00-14:30,17:00-21:00",
+          "wednesday": "9:00-14:30,17:00-21:00",
+          "thursday": "9:00-14:30,17:00-21:00",
+          "friday": "9:00-14:30,17:00-21:00",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -29,12 +29,12 @@
         "address": "C/ Cervantes, 70, Coria del Río, Sevilla",
         "phone": "954 770 934",
         "schedule": {
-          "monday": "9:30-21:00",
-          "tuesday": "9:30-21:00",
-          "wednesday": "9:30-21:00",
-          "thursday": "9:30-21:00",
-          "friday": "9:30-21:00",
-          "saturday": "10:00-20:30",
+          "monday": "9:30-14:00,17:30-20:30",
+          "tuesday": "9:30-14:00,17:30-20:30",
+          "wednesday": "9:30-14:00,17:30-20:30",
+          "thursday": "9:30-14:00,17:30-20:30",
+          "friday": "9:30-14:00,17:30-20:30",
+          "saturday": "10:00-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -47,12 +47,12 @@
         "address": "C/ Carretero, 178, Coria del Río, Sevilla",
         "phone": "954 771 143",
         "schedule": {
-          "monday": "9:00-21:00",
-          "tuesday": "9:00-21:00",
-          "wednesday": "9:00-21:00",
-          "thursday": "9:00-21:00",
-          "friday": "9:00-21:00",
-          "saturday": "9:30-20:30",
+          "monday": "9:00-14:30,16:30-20:30",
+          "tuesday": "9:00-14:30,16:30-20:30",
+          "wednesday": "9:00-14:30,16:30-20:30",
+          "thursday": "9:00-14:30,16:30-20:30",
+          "friday": "9:00-14:30,16:30-20:30",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -65,12 +65,12 @@
         "address": "C/ Zurbarán, 12, Coria del Río, Sevilla",
         "phone": "954 770 170",
         "schedule": {
-          "monday": "9:00-21:30",
-          "tuesday": "9:00-21:30",
-          "wednesday": "9:00-21:30",
-          "thursday": "9:00-21:30",
-          "friday": "9:00-21:30",
-          "saturday": "9:30-21:00",
+          "monday": "9:00-14:30,17:00-21:30",
+          "tuesday": "9:00-14:30,17:00-21:30",
+          "wednesday": "9:00-14:30,17:00-21:30",
+          "thursday": "9:00-14:30,17:00-21:30",
+          "friday": "9:00-14:30,17:00-21:30",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -83,12 +83,12 @@
         "address": "C/ Carretero, 1, Coria del Río, Sevilla",
         "phone": "954 770 069",
         "schedule": {
-          "monday": "9:30-21:00",
-          "tuesday": "9:30-21:00",
-          "wednesday": "9:30-21:00",
-          "thursday": "9:30-21:00",
-          "friday": "9:30-21:00",
-          "saturday": "10:00-20:30",
+          "monday": "9:30-13:30,17:30-20:30",
+          "tuesday": "9:30-13:30,17:30-20:30",
+          "wednesday": "9:30-13:30,17:30-20:30",
+          "thursday": "9:30-13:30,17:30-20:30",
+          "friday": "9:30-13:30,17:30-20:30",
+          "saturday": "10:00-13:30",
           "sunday": "closed"
         },
         "coordinates": {
@@ -101,12 +101,12 @@
         "address": "Av. Primero de Mayo, 104, Coria del Río, Sevilla",
         "phone": "954 770 479",
         "schedule": {
-          "monday": "9:00-21:00",
-          "tuesday": "9:00-21:00",
-          "wednesday": "9:00-21:00",
-          "thursday": "9:00-21:00",
-          "friday": "9:00-21:00",
-          "saturday": "9:30-20:30",
+          "monday": "9:00-14:00,17:00-20:30",
+          "tuesday": "9:00-14:00,17:00-20:30",
+          "wednesday": "9:00-14:00,17:00-20:30",
+          "thursday": "9:00-14:00,17:00-20:30",
+          "friday": "9:00-14:00,17:00-20:30",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -119,12 +119,12 @@
         "address": "Pza. Pedro Romero, 1, Coria del Río, Sevilla",
         "phone": "954 770 407",
         "schedule": {
-          "monday": "9:00-21:30",
-          "tuesday": "9:00-21:30",
-          "wednesday": "9:00-21:30",
-          "thursday": "9:00-21:30",
-          "friday": "9:00-21:30",
-          "saturday": "9:30-21:00",
+          "monday": "9:00-14:30,17:00-21:00",
+          "tuesday": "9:00-14:30,17:00-21:00",
+          "wednesday": "9:00-14:30,17:00-21:00",
+          "thursday": "9:00-14:30,17:00-21:00",
+          "friday": "9:00-14:30,17:00-21:00",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
@@ -137,12 +137,12 @@
         "address": "C/ Sor Ángela de la Cruz, 48, Coria del Río, Sevilla",
         "phone": "954 770 269",
         "schedule": {
-          "monday": "9:30-21:00",
-          "tuesday": "9:30-21:00",
-          "wednesday": "9:30-21:00",
-          "thursday": "9:30-21:00",
-          "friday": "9:30-21:00",
-          "saturday": "10:00-20:30",
+          "monday": "9:30-13:30,17:30-20:30",
+          "tuesday": "9:30-13:30,17:30-20:30",
+          "wednesday": "9:30-13:30,17:30-20:30",
+          "thursday": "9:30-13:30,17:30-20:30",
+          "friday": "9:30-13:30,17:30-20:30",
+          "saturday": "10:00-13:30",
           "sunday": "closed"
         },
         "coordinates": {
@@ -155,12 +155,12 @@
         "address": "C/ Blanca Paloma, 9A, Coria del Río, Sevilla",
         "phone": "954 770 682",
         "schedule": {
-          "monday": "9:00-21:00",
-          "tuesday": "9:00-21:00",
-          "wednesday": "9:00-21:00",
-          "thursday": "9:00-21:00",
-          "friday": "9:00-21:00",
-          "saturday": "9:30-20:30",
+          "monday": "9:00-14:00,17:00-20:30",
+          "tuesday": "9:00-14:00,17:00-20:30",
+          "wednesday": "9:00-14:00,17:00-20:30",
+          "thursday": "9:00-14:00,17:00-20:30",
+          "friday": "9:00-14:00,17:00-20:30",
+          "saturday": "9:30-14:00",
           "sunday": "closed"
         },
         "coordinates": {
