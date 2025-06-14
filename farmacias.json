@@ -202,6 +202,38 @@
             "address": "Pza. Pedro Romero, 1"
           }
         ]
-      }
+      },
+        {
+      "date": "2025-06-15",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        }
+      ]
+    }
     ]
   }
