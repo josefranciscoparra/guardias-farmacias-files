@@ -1,0 +1,460 @@
+{
+  "metadata": {
+    "month": "2025-05",
+    "year": 2025,
+    "lastUpdated": "2025-06-14T00:00:00",
+    "source": "Colegio Farmacéuticos Sevilla"
+  },
+  "schedule": [
+    {
+      "date": "2025-05-23",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Zurbarán, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbarán, 12"
+        },
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Zurbarán, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbarán, 12"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-24",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-25",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-26",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Sor Ángela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Ángela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Sor Ángela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Ángela de la Cruz, 48"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-27",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Blanca Paloma, 9A",
+          "phone": "954770682",
+          "id": "9",
+          "address": "Blanca Paloma, 9A"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-28",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-29",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Farmacia Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-30",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-31",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Farmacia Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-01",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Zurbarán, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbarán, 12"
+        },
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Zurbarán, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbarán, 12"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-05",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Sor Ángela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Ángela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Sor Ángela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Ángela de la Cruz, 48"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Farmacia Avda. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avda. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Farmacia Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Farmacia Sor Ángela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Ángela de la Cruz, 48"
+        }
+      ]
+    }
+  ]
+}
