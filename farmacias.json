@@ -1,246 +1,207 @@
+
 {
-  "metadata": {
-    "month": "2025-05",
-    "year": 2025,
-    "lastUpdated": "2025-06-14T17:58:00",
-    "source": "Colegio Farmacéuticos Sevilla"
-  },
-  "pharmacies": {
-    "1": {
-      "name": "Farmacia Avda. Andalucía",
-      "address": "Avda. Andalucía, 85, Coria del Río, Sevilla",
-      "phone": "954 770 068"
+    "metadata": {
+      "month": "2025-06",
+      "year": 2025,
+      "lastUpdated": "2025-06-14T12:31:00",
+      "source": "Colegio Farmacéuticos Sevilla"
     },
-    "2": {
-      "name": "Farmacia Cervantes",
-      "address": "C/ Cervantes, 70, Coria del Río, Sevilla",
-      "phone": "954 770 934"
+    "pharmacies": {
+      "1": {
+        "name": "Farmacia Avda. Andalucía",
+        "address": "Avda. Andalucía, 85, Coria del Río, Sevilla",
+        "phone": "954 770 068",
+        "schedule": {
+          "monday": "9:00-14:30,17:00-21:00",
+          "tuesday": "9:00-14:30,17:00-21:00",
+          "wednesday": "9:00-14:30,17:00-21:00",
+          "thursday": "9:00-14:30,17:00-21:00",
+          "friday": "9:00-14:30,17:00-21:00",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2875,
+          "longitude": -6.0565
+        }
+      },
+      "2": {
+        "name": "Farmacia Cervantes",
+        "address": "C/ Cervantes, 70, Coria del Río, Sevilla",
+        "phone": "954 770 934",
+        "schedule": {
+          "monday": "9:30-14:00,17:30-20:30",
+          "tuesday": "9:30-14:00,17:30-20:30",
+          "wednesday": "9:30-14:00,17:30-20:30",
+          "thursday": "9:30-14:00,17:30-20:30",
+          "friday": "9:30-14:00,17:30-20:30",
+          "saturday": "10:00-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2890,
+          "longitude": -6.0580
+        }
+      },
+      "3": {
+        "name": "Farmacia Carretero",
+        "address": "C/ Carretero, 178, Coria del Río, Sevilla",
+        "phone": "954 771 143",
+        "schedule": {
+          "monday": "9:00-14:30,16:30-20:30",
+          "tuesday": "9:00-14:30,16:30-20:30",
+          "wednesday": "9:00-14:30,16:30-20:30",
+          "thursday": "9:00-14:30,16:30-20:30",
+          "friday": "9:00-14:30,16:30-20:30",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2905,
+          "longitude": -6.0570
+        }
+      },
+      "4": {
+        "name": "Farmacia Zurbarán",
+        "address": "C/ Zurbarán, 12, Coria del Río, Sevilla",
+        "phone": "954 770 170",
+        "schedule": {
+          "monday": "9:00-14:30,17:00-21:30",
+          "tuesday": "9:00-14:30,17:00-21:30",
+          "wednesday": "9:00-14:30,17:00-21:30",
+          "thursday": "9:00-14:30,17:00-21:30",
+          "friday": "9:00-14:30,17:00-21:30",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2885,
+          "longitude": -6.0545
+        }
+      },
+      "5": {
+        "name": "Farmacia Carretero Centro",
+        "address": "C/ Carretero, 1, Coria del Río, Sevilla",
+        "phone": "954 770 069",
+        "schedule": {
+          "monday": "9:30-13:30,17:30-20:30",
+          "tuesday": "9:30-13:30,17:30-20:30",
+          "wednesday": "9:30-13:30,17:30-20:30",
+          "thursday": "9:30-13:30,17:30-20:30",
+          "friday": "9:30-13:30,17:30-20:30",
+          "saturday": "10:00-13:30",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2878,
+          "longitude": -6.0558
+        }
+      },
+      "6": {
+        "name": "Farmacia Av. Primero de Mayo",
+        "address": "Av. Primero de Mayo, 104, Coria del Río, Sevilla",
+        "phone": "954 770 479",
+        "schedule": {
+          "monday": "9:00-14:00,17:00-20:30",
+          "tuesday": "9:00-14:00,17:00-20:30",
+          "wednesday": "9:00-14:00,17:00-20:30",
+          "thursday": "9:00-14:00,17:00-20:30",
+          "friday": "9:00-14:00,17:00-20:30",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2895,
+          "longitude": -6.0590
+        }
+      },
+      "7": {
+        "name": "Farmacia Plaza Pedro Romero",
+        "address": "Pza. Pedro Romero, 1, Coria del Río, Sevilla",
+        "phone": "954 770 407",
+        "schedule": {
+          "monday": "9:00-14:30,17:00-21:00",
+          "tuesday": "9:00-14:30,17:00-21:00",
+          "wednesday": "9:00-14:30,17:00-21:00",
+          "thursday": "9:00-14:30,17:00-21:00",
+          "friday": "9:00-14:30,17:00-21:00",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2870,
+          "longitude": -6.0550
+        }
+      },
+      "8": {
+        "name": "Farmacia Sor Ángela de la Cruz",
+        "address": "C/ Sor Ángela de la Cruz, 48, Coria del Río, Sevilla",
+        "phone": "954 770 269",
+        "schedule": {
+          "monday": "9:30-13:30,17:30-20:30",
+          "tuesday": "9:30-13:30,17:30-20:30",
+          "wednesday": "9:30-13:30,17:30-20:30",
+          "thursday": "9:30-13:30,17:30-20:30",
+          "friday": "9:30-13:30,17:30-20:30",
+          "saturday": "10:00-13:30",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2888,
+          "longitude": -6.0575
+        }
+      },
+      "9": {
+        "name": "Farmacia Blanca Paloma",
+        "address": "C/ Blanca Paloma, 9A, Coria del Río, Sevilla",
+        "phone": "954 770 682",
+        "schedule": {
+          "monday": "9:00-14:00,17:00-20:30",
+          "tuesday": "9:00-14:00,17:00-20:30",
+          "wednesday": "9:00-14:00,17:00-20:30",
+          "thursday": "9:00-14:00,17:00-20:30",
+          "friday": "9:00-14:00,17:00-20:30",
+          "saturday": "9:30-14:00",
+          "sunday": "closed"
+        },
+        "coordinates": {
+          "latitude": 37.2882,
+          "longitude": -6.0562
+        }
+      }
     },
-    "3": {
-      "name": "Farmacia Carretero",
-      "address": "C/ Carretero, 178, Coria del Río, Sevilla",
-      "phone": "954 771 143"
-    },
-    "4": {
-      "name": "Farmacia Zurbarán",
-      "address": "C/ Zurbarán, 12, Coria del Río, Sevilla",
-      "phone": "954 770 170"
-    },
-    "5": {
-      "name": "Farmacia Carretero Centro",
-      "address": "C/ Carretero, 1, Coria del Río, Sevilla",
-      "phone": "954 770 069"
-    },
-    "6": {
-      "name": "Farmacia Av. Primero de Mayo",
-      "address": "Av. Primero de Mayo, 104, Coria del Río, Sevilla",
-      "phone": "954 770 479"
-    },
-    "7": {
-      "name": "Farmacia Plaza Pedro Romero",
-      "address": "Pza. Pedro Romero, 1, Coria del Río, Sevilla",
-      "phone": "954 770 407"
-    },
-    "8": {
-      "name": "Farmacia Sor Ángela de la Cruz",
-      "address": "C/ Sor Ángela de la Cruz, 48, Coria del Río, Sevilla",
-      "phone": "954 770 269"
-    },
-    "9": {
-      "name": "Farmacia Blanca Paloma",
-      "address": "C/ Blanca Paloma, 9A, Coria del Río, Sevilla",
-      "phone": "954 770 682"
-    }
-  },
-  "schedule": [
-    {
-      "date": "2025-05-23",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Carretero",            "phone": "954 771 143", "id": "3", "address": "Carretero, 178" },
-        { "pharmacy": "Farmacia Zurbarán",             "phone": "954 770 170", "id": "4", "address": "Zurbarán, 12" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ]
-    },
-    {
-      "date": "2025-05-24",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Carretero Centro",     "phone": "954 770 069", "id": "5", "address": "Carretero, 1" },
-        { "pharmacy": "Farmacia Carretero",            "phone": "954 771 143", "id": "3", "address": "Carretero, 178" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Carretero Centro",     "phone": "954 770 069", "id": "5", "address": "Carretero, 1" }
-      ]
-    },
-    {
-      "date": "2025-05-25",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" }
-      ]
-    },
-    {
-      "date": "2025-05-26",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Sor Ángela de la Cruz","phone": "954 770 269", "id": "8", "address": "Sor Ángela de la Cruz, 48" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Sor Ángela de la Cruz","phone": "954 770 269", "id": "8", "address": "Sor Ángela de la Cruz, 48" }
-      ]
-    },
-    {
-      "date": "2025-05-27",
-      "dayOfWeek": "martes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Blanca Paloma",        "phone": "954 770 682", "id": "9", "address": "Blanca Paloma, 9A" }
-      ]
-    },
-    {
-      "date": "2025-05-28",
-      "dayOfWeek": "miércoles",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ]
-    },
-    {
-      "date": "2025-05-29",
-      "dayOfWeek": "jueves",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Av. Primero de Mayo",  "phone": "954 770 479", "id": "6", "address": "Av. Primero de Mayo, 104" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Av. Primero de Mayo",  "phone": "954 770 479", "id": "6", "address": "Av. Primero de Mayo, 104" }
-      ]
-    },
-    {
-      "date": "2025-05-30",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": []
-    },
-    {
-      "date": "2025-05-31",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        { "pharmacy": "Farmacia Av. Primero de Mayo",  "phone": "954 770 479", "id": "6", "address": "Av. Primero de Mayo, 104" }
-      ],
-      "nocturno": []
-    },
-    {
-      "date": "2025-06-01",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Cervantes",            "phone": "954 770 934", "id": "2", "address": "C/ Cervantes, 70" }
-      ]
-    },
-    {
-      "date": "2025-06-02",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ]
-    },
-    {
-      "date": "2025-06-03",
-      "dayOfWeek": "martes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Carretero Centro",     "phone": "954 770 069", "id": "5", "address": "Carretero, 1" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Carretero Centro",     "phone": "954 770 069", "id": "5", "address": "Carretero, 1" }
-      ]
-    },
-    {
-      "date": "2025-06-04",
-      "dayOfWeek": "miércoles",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" }
-      ]
-    },
-    {
-      "date": "2025-06-05",
-      "dayOfWeek": "jueves",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" },
-        { "pharmacy": "Farmacia Sor Ángela de la Cruz","phone": "954 770 269", "id": "8", "address": "Sor Ángela de la Cruz, 48" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Sor Ángela de la Cruz","phone": "954 770 269", "id": "8", "address": "Sor Ángela de la Cruz, 48" }
-      ]
-    },
-    {
-      "date": "2025-06-14",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" },
-        { "pharmacy": "Farmacia Carretero",            "phone": "954 771 143", "id": "3", "address": "Carretero, 178" }
-      ],
-      "nocturno": [
-        { "pharmacy": "Farmacia Plaza Pedro Romero",   "phone": "954 770 407", "id": "7", "address": "Pza. Pedro Romero, 1" }
-      ]
-    },
-    {
-      "date": "2025-06-16",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": []
-    },
-    {
-      "date": "2025-06-20",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        { "pharmacy": "Farmacia Cervantes",            "phone": "954 770 934", "id": "2", "address": "C/ Cervantes, 70" }
-      ],
-      "nocturno": []
-    },
-    {
-      "date": "2025-06-23",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        { "pharmacy": "Farmacia Avda. Andalucía",      "phone": "954 770 068", "id": "1", "address": "Avda. Andalucía, 85" }
-      ],
-      "nocturno": []
-    },
-    {
-      "date": "2025-06-27",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        { "pharmacy": "Farmacia Carretero",            "phone": "954 771 143", "id": "3", "address": "Carretero, 178" }
-      ],
-      "nocturno": []
-    }
-  ]
-}
+    "schedule": [
+      {
+        "date": "2025-06-14",
+        "dayOfWeek": "sábado",
+        "diurno": [
+          {
+            "pharmacy": "Farmacia Avd. Andalucía, 85",
+            "phone": "954770068",
+            "id": "11",
+            "address": "Avd. Andalucía, 85"
+          },
+          {
+            "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+            "phone": "954770407",
+            "id": "7",
+            "address": "Pza. Pedro Romero, 1"
+          },
+          {
+            "pharmacy": "Farmacia Carretero, 178",
+            "phone": "954771143",
+            "id": "3",
+            "address": "Carretero, 178"
+          }
+        ],
+        "nocturno": [
+          {
+            "pharmacy": "Farmacia Pza. Pedro Romero, 1",
+            "phone": "954770407",
+            "id": "7",
+            "address": "Pza. Pedro Romero, 1"
+          }
+        ]
+      }
+    ]
+  }
