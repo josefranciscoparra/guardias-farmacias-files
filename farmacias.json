@@ -29,13 +29,13 @@
       "address": "C/ Cervantes, 70, Coria del Río, Sevilla",
       "phone": "954 770 934",
       "schedule": {
-        "monday": "9:00-22:00",
-        "tuesday": "9:00-22:00",
-        "wednesday": "9:00-22:00",
-        "thursday": "9:00-22:00",
-        "friday": "9:00-22:00",
-        "saturday": "9:00-22:00",
-        "sunday": "9:00-22:00"
+        "monday": "9:00-14:30,17:00-21:30",
+        "tuesday": "9:00-14:30,17:00-21:30",
+        "wednesday": "9:00-14:30,17:00-21:30",
+        "thursday": "9:00-14:30,17:00-21:30",
+        "friday": "9:00-14:30,17:00-21:30",
+        "saturday": "9:30-14:00",
+        "sunday": "closed"
       },
       "coordinates": {
         "latitude": 37.289,
@@ -47,13 +47,13 @@
       "address": "C/ Carretero, 178, Coria del Río, Sevilla",
       "phone": "954 771 143",
       "schedule": {
-        "monday": "9:00-14:30,16:30-20:30",
-        "tuesday": "9:00-14:30,16:30-20:30",
-        "wednesday": "9:00-14:30,16:30-20:30",
-        "thursday": "9:00-14:30,16:30-20:30",
-        "friday": "9:00-14:30,16:30-20:30",
-        "saturday": "9:30-14:00",
-        "sunday": "9:00-21:00"
+        "monday": "9:00-22:00",
+        "tuesday": "9:00-22:00",
+        "wednesday": "9:00-22:00",
+        "thursday": "9:00-22:00",
+        "friday": "9:00-22:00",
+        "saturday": "9:00-22:00",
+        "sunday": "9:00-22:00"
       },
       "coordinates": {
         "latitude": 37.2905,
