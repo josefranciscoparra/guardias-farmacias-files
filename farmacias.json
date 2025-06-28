@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "month": "2025-05",
+    "month": "2025-06",
     "year": 2025,
-    "lastUpdated": "2025-06-15T12:32:00.886015",
+    "lastUpdated": "2025-06-28T15:23:26.421811",
     "source": "Colegio Farmacéuticos Sevilla"
   },
   "pharmacies": {
@@ -171,830 +171,6 @@
   },
   "schedule": [
     {
-      "date": "2025-05-30",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        }
-      ]
-    },
-    {
-      "date": "2025-05-31",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        },
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-01",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cervantes, 70",
-          "phone": "954770934",
-          "id": "2",
-          "address": "Cervantes, 70"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-02",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        },
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-02",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        },
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-03",
-      "dayOfWeek": "martes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-04",
-      "dayOfWeek": "miércoles",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
-          "phone": "954770407",
-          "id": "7",
-          "address": "Pza. Pedro Romero, 1"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
-          "phone": "954770407",
-          "id": "7",
-          "address": "Pza. Pedro Romero, 1"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-05",
-      "dayOfWeek": "jueves",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
-          "phone": "954770269",
-          "id": "8",
-          "address": "Sor Angela de la Cruz, 48"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
-          "phone": "954770269",
-          "id": "8",
-          "address": "Sor Angela de la Cruz, 48"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-06",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Blanca Paloma, 9A",
-          "phone": "954770682",
-          "id": "9",
-          "address": "Blanca Paloma, 9A"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-07",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-08",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        },
-        {
-          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
-          "phone": "954770479",
-          "id": "6",
-          "address": "Av. Primero de Mayo, 104"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
-          "phone": "954770479",
-          "id": "6",
-          "address": "Av. Primero de Mayo, 104"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-09",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-09",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-10",
-      "dayOfWeek": "martes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        },
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-11",
-      "dayOfWeek": "miércoles",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cervantes, 70",
-          "phone": "954770934",
-          "id": "2",
-          "address": "Cervantes, 70"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-12",
-      "dayOfWeek": "jueves",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        },
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-13",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-14",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
-          "phone": "954770407",
-          "id": "7",
-          "address": "Pza. Pedro Romero, 1"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
-          "phone": "954770407",
-          "id": "7",
-          "address": "Pza. Pedro Romero, 1"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-15",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
-          "phone": "954770269",
-          "id": "8",
-          "address": "Sor Angela de la Cruz, 48"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
-          "phone": "954770269",
-          "id": "8",
-          "address": "Sor Angela de la Cruz, 48"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-16",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Blanca Paloma, 9A",
-          "phone": "954770682",
-          "id": "9",
-          "address": "Blanca Paloma, 9A"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-16",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Blanca Paloma, 9A",
-          "phone": "954770682",
-          "id": "9",
-          "address": "Blanca Paloma, 9A"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-17",
-      "dayOfWeek": "martes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-18",
-      "dayOfWeek": "miércoles",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        },
-        {
-          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
-          "phone": "954770479",
-          "id": "6",
-          "address": "Av. Primero de Mayo, 104"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-19",
-      "dayOfWeek": "jueves",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
-          "phone": "954770479",
-          "id": "6",
-          "address": "Av. Primero de Mayo, 104"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-20",
-      "dayOfWeek": "viernes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        },
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cantalobos, 8",
-          "phone": "954778722",
-          "id": "10",
-          "address": "Cantalobos, 8"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-21",
-      "dayOfWeek": "sábado",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Cervantes, 70",
-          "phone": "954770934",
-          "id": "2",
-          "address": "Cervantes, 70"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-22",
-      "dayOfWeek": "domingo",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        },
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Zurbaran, 12",
-          "phone": "954770170",
-          "id": "4",
-          "address": "Zurbaran, 12"
-        }
-      ]
-    },
-    {
-      "date": "2025-06-23",
-      "dayOfWeek": "lunes",
-      "diurno": [
-        {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        },
-        {
-          "pharmacy": "Coria del Río Carretero, 178",
-          "phone": "954771143",
-          "id": "3",
-          "address": "Carretero, 178"
-        }
-      ],
-      "nocturno": [
-        {
-          "pharmacy": "Coria del Río Carretero, 1",
-          "phone": "954770069",
-          "id": "5",
-          "address": "Carretero, 1"
-        }
-      ]
-    },
-    {
       "date": "2025-06-23",
       "dayOfWeek": "lunes",
       "diurno": [
@@ -1147,12 +323,6 @@
       "dayOfWeek": "sábado",
       "diurno": [
         {
-          "pharmacy": "Coria del Río Avd. Andalucía, 85",
-          "phone": "954770068",
-          "id": "1",
-          "address": "Avd. Andalucía, 85"
-        },
-        {
           "pharmacy": "Coria del Río Carretero, 178",
           "phone": "954771143",
           "id": "3",
@@ -1229,6 +399,1044 @@
           "phone": "954778722",
           "id": "10",
           "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Zurbaran, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbaran, 12"
+        },
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Zurbaran, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbaran, 12"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Blanca Paloma, 9A",
+          "phone": "954770682",
+          "id": "9",
+          "address": "Blanca Paloma, 9A"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Zurbaran, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbaran, 12"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Blanca Paloma, 9A",
+          "phone": "954770682",
+          "id": "9",
+          "address": "Blanca Paloma, 9A"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-22",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Zurbaran, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbaran, 12"
+        },
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Zurbaran, 12",
+          "phone": "954770170",
+          "id": "4",
+          "address": "Zurbaran, 12"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 1",
+          "phone": "954770069",
+          "id": "5",
+          "address": "Carretero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Pza. Pedro Romero, 1",
+          "phone": "954770407",
+          "id": "7",
+          "address": "Pza. Pedro Romero, 1"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "dayOfWeek": "viernes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Sor Angela de la Cruz, 48",
+          "phone": "954770269",
+          "id": "8",
+          "address": "Sor Angela de la Cruz, 48"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "dayOfWeek": "sábado",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Blanca Paloma, 9A",
+          "phone": "954770682",
+          "id": "9",
+          "address": "Blanca Paloma, 9A"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "dayOfWeek": "domingo",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "dayOfWeek": "lunes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Av. Primero de Mayo, 104",
+          "phone": "954770479",
+          "id": "6",
+          "address": "Av. Primero de Mayo, 104"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "dayOfWeek": "martes",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "dayOfWeek": "miércoles",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        },
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cantalobos, 8",
+          "phone": "954778722",
+          "id": "10",
+          "address": "Cantalobos, 8"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "dayOfWeek": "jueves",
+      "diurno": [
+        {
+          "pharmacy": "Coria del Río Avd. Andalucía, 85",
+          "phone": "954770068",
+          "id": "1",
+          "address": "Avd. Andalucía, 85"
+        },
+        {
+          "pharmacy": "Coria del Río Carretero, 178",
+          "phone": "954771143",
+          "id": "3",
+          "address": "Carretero, 178"
+        }
+      ],
+      "nocturno": [
+        {
+          "pharmacy": "Coria del Río Cervantes, 70",
+          "phone": "954770934",
+          "id": "2",
+          "address": "Cervantes, 70"
         }
       ]
     }
